@@ -127,11 +127,9 @@ Custom layouts, styling, and templates created for forum-based communities using
 ## 📊 GitHub Snapshot
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAMEHERE&show_icons=true&hide_border=true&title_color=b77d92&icon_color=d5a2b3&text_color=6f6268&bg_color=fffafb" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAMEHERE&layout=compact&hide_border=true&title_color=b77d92&text_color=6f6268&bg_color=fffafb" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=deserez&show_icons=true&hide_border=true&title_color=b77d92&icon_color=d5a2b3&text_color=6f6268&bg_color=fffafb" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deserez&layout=compact&hide_border=true&title_color=b77d92&text_color=6f6268&bg_color=fffafb" />
 </p>
-
-> Replace `YOURUSERNAMEHERE` with your real GitHub username once your profile is set up.
 
 ---
 
