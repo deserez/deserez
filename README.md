@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="deserez_github_banner.svg" width="100%">
+</p>
 # Hi, I'm Deserez ✨
 
 **Developer • Writer • Systems Builder**
