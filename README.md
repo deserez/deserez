@@ -13,11 +13,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-%23f8e9ef?style=for-the-badge&logo=html5&logoColor=b77d92&labelColor=fff8fb" />
-  <img src="https://img.shields.io/badge/CSS-%23f8e9ef?style=for-the-badge&logo=css3&logoColor=b77d92&labelColor=fff8fb" />
-  <img src="https://img.shields.io/badge/JavaScript-%23f8e9ef?style=for-the-badge&logo=javascript&logoColor=b77d92&labelColor=fff8fb" />
-  <img src="https://img.shields.io/badge/Node.js-%23f8e9ef?style=for-the-badge&logo=nodedotjs&logoColor=b77d92&labelColor=fff8fb" />
-  <img src="https://img.shields.io/badge/Discord.js-%23f8e9ef?style=for-the-badge&logo=discord&logoColor=b77d92&labelColor=fff8fb" />
+  <img src="https://img.shields.io/badge/HTML5-ffeef4?style=for-the-badge&logo=html5&logoColor=b77d92&labelColor=fff8fb" alt="HTML5 badge" />
+  <img src="https://img.shields.io/badge/CSS3-ffeef4?style=for-the-badge&logo=css3&logoColor=b77d92&labelColor=fff8fb" alt="CSS3 badge" />
+  <img src="https://img.shields.io/badge/JavaScript-ffeef4?style=for-the-badge&logo=javascript&logoColor=b77d92&labelColor=fff8fb" alt="JavaScript badge" />
+  <img src="https://img.shields.io/badge/Node.js-ffeef4?style=for-the-badge&logo=nodedotjs&logoColor=b77d92&labelColor=fff8fb" alt="Node.js badge" />
+  <img src="https://img.shields.io/badge/Discord.js-ffeef4?style=for-the-badge&logo=discord&logoColor=b77d92&labelColor=fff8fb" alt="Discord.js badge" />
 </p>
 
 ---
@@ -44,10 +44,6 @@ For over a decade, I’ve blended **development + writing + worldbuilding + desi
 
 ## 🧰 Tech Stack
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
 ### 💻 Development
 - HTML
 - CSS
@@ -57,9 +53,6 @@ For over a decade, I’ve blended **development + writing + worldbuilding + desi
 - SQLite / database systems
 - debugging & troubleshooting
 
-    </td>
-    <td valign="top" width="50%">
-
 ### 🪄 Creative + Systems
 - AI chatbot evaluation
 - prompt engineering
@@ -68,10 +61,6 @@ For over a decade, I’ve blended **development + writing + worldbuilding + desi
 - UX-minded design
 - community platform design
 - interactive system design
-
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -127,8 +116,8 @@ Custom layouts, styling, and templates created for forum-based communities using
 ## 📊 GitHub Snapshot
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=deserez&show_icons=true&hide_border=true&title_color=b77d92&icon_color=d5a2b3&text_color=6f6268&bg_color=fffafb" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deserez&layout=compact&hide_border=true&title_color=b77d92&text_color=6f6268&bg_color=fffafb" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=deserez&show_icons=true&hide_border=true&title_color=b77d92&icon_color=d5a2b3&text_color=6f6268&bg_color=fffafb" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deserez&layout=compact&hide_border=true&title_color=b77d92&text_color=6f6268&bg_color=fffafb" alt="Top languages" />
 </p>
 
 ---
