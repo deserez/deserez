@@ -1,96 +1,116 @@
 <p align="center">
-  <img src="deserez_github_banner.svg" width="100%">
+  <img src="deserez_github_banner.svg" width="100%" />
 </p>
-# Hi, I'm Deserez ✨
 
-**Developer • Writer • Systems Builder**
+<h1 align="center">✨ Deserez Krentz ✨</h1>
 
-I build creative, community-driven tech with a focus on bots, immersive systems, and user-centered design.
+<p align="center">
+Developer ♥ Writer ♥ Systems Builder
+</p>
 
-## About Me
+<p align="center">
+Building creative systems, bots, and tools that bring communities and ideas to life.
+</p>
 
-- Building **Fisto Unit**, a Fallout-inspired Discord RPG bot  
-- Building **Hashirama**, an AI-style handbook assistant for the Nindo roleplay community  
-- Building **Lunaria**, a period, fertility, and pregnancy tracking app  
-- Coding and writing since childhood  
-- Interested in **AI evaluation, prompt engineering, bot systems, web design, and community platforms**
+---
 
-## Featured Projects
+## 💗 About Me
 
-### Fisto Unit
-A Fallout-inspired Discord RPG bot with:
+I design and build **interactive systems, bots, and community platforms** with a focus on creativity, usability, and storytelling.
+
+For over a decade I’ve been combining:
+
+- technical development
+- creative writing
+- world‑building
+- user‑focused design
+
+to create experiences that feel **alive and immersive**.
+
+Currently building:
+
+- ⚙️ **Fisto Unit** – Fallout-inspired Discord RPG bot  
+- 🧠 **Hashirama** – AI-style handbook assistant for the Nindo RP community  
+- 🌙 **Lunaria** – period, fertility, and pregnancy tracking app  
+- 🎨 **Custom community platforms** and forum systems  
+
+---
+
+## 🧰 Tech & Tools
+
+💻 **Languages**  
+HTML • CSS • JavaScript • Node.js  
+
+🤖 **Bots & Systems**  
+Discord.js • AI chatbot evaluation • prompt engineering  
+
+🗄 **Data & Backend**  
+SQLite • database systems • automation  
+
+🎨 **Creative / Design**  
+UI thinking • community platform design • worldbuilding • technical writing  
+
+---
+
+## 🚀 Featured Projects
+
+### ⚙️ Fisto Unit
+A **Fallout-inspired Discord RPG bot** featuring:
+
 - inventory systems
 - caps economy
 - perks
 - shops
 - raids
-- progression mechanics
+- player progression
 
-**Stack:** Node.js, Discord.js, SQLite
-
----
-
-### Hashirama
-An AI-style Discord assistant built for the Naruto Nindo roleplay community to help users navigate:
-- handbook systems
-- rules
-- lore
-- mechanics
-
-**Focus:** conversational systems, structured knowledge, community support
+Built using **Node.js, Discord.js, and SQLite**.
 
 ---
 
-### Lunaria
-A mobile application in development focused on:
-- cycle tracking
-- fertility insights
-- pregnancy support
-- thoughtful, feminine UI/UX
+### 🧠 Hashirama
 
-**Focus:** wellness tech, mobile UX, product design
+An **AI-style assistant bot** designed to guide players through the Naruto Nindo roleplay system.
+
+Focus areas:
+
+- rule interpretation
+- handbook guidance
+- lore lookup
+- conversational support
 
 ---
 
-### Nindo Web / Forum Design
-Custom layouts, templates, and styling built for forum-based communities using:
-- HTML
-- CSS
-- custom front-end styling
-- community-first design systems
+### 🌙 Lunaria
 
-## Skills
+A **cycle, fertility, and pregnancy tracking application** focused on:
 
-**Development**
-- HTML
-- CSS
-- JavaScript
-- Node.js
-- Discord.js
-- database systems
-- debugging
+- thoughtful design
+- feminine UX
+- modern health tools
+- supportive user experience
 
-**Creative / Systems**
-- technical writing
-- AI chatbot evaluation
-- prompt engineering
-- worldbuilding
-- community platform design
-- UX-minded development
+Currently in development.
 
-## Current Focus
+---
 
-Right now I'm focused on:
-- refining bot systems and interfaces
-- building polished user experiences
-- exploring AI-assisted tools and conversational workflows
-- creating tech that feels useful, immersive, and memorable
+## 🌸 What I'm Interested In
 
-## Connect
-- Email: **deserezkrentz999@outlook.com**
+- AI training & chatbot evaluation  
+- prompt engineering  
+- bot ecosystems  
+- interactive communities  
+- creative technology  
+
+---
+
+## 📫 Connect
+
+💌 **Email:**  
+deserezkrentz999@outlook.com
 
 ---
 
 <p align="center">
-  <i>Soft tech • strong systems • creative builds</i>
+  <i>Soft tech ♥ strong systems ♥ creative builds</i>
 </p>
